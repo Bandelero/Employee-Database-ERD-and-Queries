@@ -21,7 +21,7 @@ List all employees in the Sales and Development departments, including their emp
 
 In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-#Jupyter Notebook
+# Jupyter Notebook
 
 Imported  the SQL database into Pandas and created a histogram and bar chart. To do this I used Pandas dataframes.
 
